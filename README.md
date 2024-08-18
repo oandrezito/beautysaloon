@@ -11,7 +11,7 @@
 </p>
 <br>
 
-![image](https://github.com/user-attachments/assets/26ed96c9-767a-4617-b911-84a8b03fe177)
+![image](https://github.com/user-attachments/assets/894ba754-16a7-45f6-b5f4-8244bca0ecc1)
 
 
 ## 🚀 Tecnologias
